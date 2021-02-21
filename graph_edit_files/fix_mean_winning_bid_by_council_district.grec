@@ -1,0 +1,24 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: bargraph_g
+*! family: bar
+*! date: 27 Apr 2019
+*! time: 10:20:51
+*! graph_scheme: s2mono
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.barlabels[2].DragBy -174.0744083254897 11.6949899641192
+// barlabels[2] reposition
+
+.plotregion1.AddLine added_lines editor 27.23376935082518 10218.30498412923 31.50693876079178 10531.63891911511
+.plotregion1.added_lines_new = 1
+.plotregion1.added_lines_rec = 1
+.plotregion1.added_lines[1].style.editstyle  linestyle( width(thin) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width(thin) color(black) pattern(solid) align(inside)) fillcolor(black) size(medium) angle(stdarrow) symangle(zero) backsymbol(none) backline( width(thin) color(black) pattern(solid) align(inside)) backcolor(black) backsize(zero) backangle(stdarrow) backsymangle(zero)) headpos(tail) editcopy
+// edits
+
+
+// <end>
